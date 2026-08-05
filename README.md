@@ -4,7 +4,7 @@
 
 SmartCart is an AI-powered customer segmentation project that leverages **Unsupervised Machine Learning** to group customers into meaningful clusters based on their purchasing behavior, demographics, engagement, and loyalty indicators.
 
-The objective is to help e-commerce businesses better understand customer behavior, enabling personalized marketing campaigns, customer retention strategies, and data-driven business decisions. The project is based on the **SmartCart Clustering System** problem statement. :contentReference[oaicite:0]{index=0}
+The objective is to help e-commerce businesses better understand customer behavior, enabling personalized marketing campaigns, customer retention strategies, and data-driven business decisions. The project is based on the **SmartCart Clustering System** problem statement.
 
 ---
 
@@ -14,7 +14,7 @@ SmartCart is a growing e-commerce platform serving customers across multiple cou
 
 Currently, the company applies the same marketing strategy to every customer, making it difficult to identify high-value customers, personalize campaigns, or detect customers who may be at risk of churning.
 
-The goal of this project is to build an **intelligent customer segmentation system** using **unsupervised machine learning** to discover hidden customer groups and support personalized marketing strategies. :contentReference[oaicite:1]{index=1}
+The goal of this project is to build an **intelligent customer segmentation system** using **unsupervised machine learning** to discover hidden customer groups and support personalized marketing strategies.
 
 ---
 
